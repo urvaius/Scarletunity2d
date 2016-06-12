@@ -56,6 +56,11 @@ public class Player : MonoBehaviour
 		{
 			animator.SetInteger("Direction", 1);
 		}
+
+		if (input.x ==0)
+		{
+			animator.SetInteger("Direction", 4);
+		}
 		bool wallSliding = false;
 		if((controller.collisions.left || controller.collisions.right) && !controller.collisions.below && velocity.y <0)
 		{
