@@ -23,7 +23,7 @@ public class Controller2D : RaycastController
 	}
 
 
-	public void Move(Vector3 moveAmount,bool standingOnPlatform)
+	public void Move(Vector2 moveAmount,bool standingOnPlatform)
 	{
 		Move(moveAmount, Vector2.zero, standingOnPlatform);
 	}
