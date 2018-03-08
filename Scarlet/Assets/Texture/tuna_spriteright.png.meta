@@ -3,15 +3,61 @@ guid: 1fd81adbd6431a240bb14a804afae880
 timeCreated: 1463465348
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
-  serializedVersion: 2
+  fileIDToRecycleName:
+    21300000: tuna_spriteright_0
+    21300002: tuna_spriteright_1
+    21300004: tuna_spriteright_2
+    21300006: tuna_spriteright_3
+    21300008: tuna_spriteright_4
+    21300010: tuna_spriteright_5
+    21300012: tuna_spriteright_6
+    21300014: tuna_spriteright_7
+    21300016: tuna_spriteright_8
+    21300018: tuna_spriteright_9
+    21300020: tuna_spriteright_10
+    21300022: tuna_spriteright_11
+    21300024: tuna_spriteright_12
+    21300026: tuna_spriteright_13
+    21300028: tuna_spriteright_14
+    21300030: tuna_spriteright_15
+    21300032: tuna_spriteright_16
+    21300034: tuna_spriteright_17
+    21300036: tuna_spriteright_18
+    21300038: tuna_spriteright_19
+    21300040: tuna_spriteright_20
+    21300042: tuna_spriteright_21
+    21300044: tuna_spriteright_22
+    21300046: tuna_spriteright_23
+    21300048: tuna_spriteright_24
+    21300050: tuna_spriteright_25
+    21300052: tuna_spriteright_26
+    21300054: tuna_spriteright_27
+    21300056: tuna_spriteright_28
+    21300058: tuna_spriteright_29
+    21300060: tuna_spriteright_30
+    21300062: tuna_spriteright_31
+    21300064: tuna_spriteright_32
+    21300066: tuna_spriteright_33
+    21300068: tuna_spriteright_34
+    21300070: tuna_spriteright_35
+    21300072: tuna_spriteright_36
+    21300074: tuna_spriteright_37
+    21300076: tuna_spriteright_38
+    21300078: tuna_spriteright_39
+    21300080: tuna_spriteright_40
+    21300082: tuna_spriteright_41
+    21300084: tuna_spriteright_42
+  externalObjects: {}
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -21,36 +67,675 @@ TextureImporter:
     normalMapFilter: 0
   isReadable: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: -1
     mipBias: -1
-    wrapMode: 1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
-  allowsAlphaSplitting: 0
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
-    sprites: []
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tuna_spriteright_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2408
+        width: 362
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2402
+        width: 371
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_2
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 2402
+        width: 357
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_3
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 2406
+        width: 351
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2207
+        width: 363
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_5
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2206
+        width: 361
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_6
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 2199
+        width: 340
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_7
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 2210
+        width: 369
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2006
+        width: 368
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_9
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2015
+        width: 359
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_10
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 2002
+        width: 343
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_11
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 2009
+        width: 349
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1810
+        width: 363
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_13
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1809
+        width: 340
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_14
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1801
+        width: 336
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_15
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1807
+        width: 340
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1610
+        width: 359
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_17
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1609
+        width: 335
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_18
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1593
+        width: 325
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_19
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1611
+        width: 345
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1411
+        width: 351
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_21
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1406
+        width: 355
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_22
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1395
+        width: 266
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_23
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 1410
+        width: 354
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_24
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1214
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_25
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1209
+        width: 356
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_26
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1210
+        width: 363
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_27
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1009
+        width: 320
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_28
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1009
+        width: 376
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_29
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1013
+        width: 357
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_30
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 813
+        width: 326
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_31
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 812
+        width: 364
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_32
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 813
+        width: 360
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_33
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 613
+        width: 331
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_34
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 613
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_35
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 613
+        width: 362
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_36
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 414
+        width: 335
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_37
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 418
+        width: 328
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_38
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 414
+        width: 355
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_39
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 213
+        width: 331
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_40
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 213
+        width: 352
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_41
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 217
+        width: 354
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_spriteright_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 12
+        width: 382
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
+    physicsShape: []
   spritePackingTag: 
   userData: 
   assetBundleName: 

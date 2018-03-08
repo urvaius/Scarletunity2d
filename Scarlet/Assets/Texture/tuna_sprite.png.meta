@@ -47,14 +47,17 @@ TextureImporter:
     21300080: tuna_sprite_40
     21300082: tuna_sprite_41
     21300084: tuna_sprite_42
-  serializedVersion: 2
+  externalObjects: {}
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -64,23 +67,22 @@ TextureImporter:
     normalMapFilter: 0
   isReadable: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -3
   maxTextureSize: 2048
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 16
     mipBias: -1
-    wrapMode: 1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
-  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
@@ -88,89 +90,72 @@ TextureImporter:
   spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: tuna_sprite_0
+    - serializedVersion: 2
+      name: tuna_sprite_0
       rect:
         serializedVersion: 2
-        x: 30
+        x: 25
         y: 2406
         width: 351
         height: 179
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 108.21286, y: -15.729248}
-        - {x: 106.21286, y: -15.729248}
-        - {x: 105.21286, y: -13.729248}
-        - {x: 106.21286, y: -14.729248}
-        - {x: 109.21286, y: -15.729248}
-        - {x: 119.21286, y: -18.729248}
-        - {x: 127.21286, y: -18.729248}
-        - {x: 132.21286, y: -16.729248}
-        - {x: 137.21286, y: -12.729248}
-        - {x: 137.21286, y: 17.270752}
-        - {x: -50.78714, y: 72.27075}
-        - {x: -131.78714, y: 72.27075}
-        - {x: -138.78714, y: 61.270752}
-        - {x: -138.78714, y: -70.72925}
-        - {x: 137.21286, y: -70.72925}
-        - {x: 137.21286, y: -32.729248}
-        - {x: 117.21286, y: -18.729248}
-    - name: tuna_sprite_1
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_1
       rect:
         serializedVersion: 2
         x: 419
         y: 2402
         width: 357
-        height: 185
+        height: 184
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -27.310486, y: 74.10901}
-        - {x: -133.31049, y: 74.10901}
-        - {x: -141.31049, y: 70.10901}
-        - {x: -141.31049, y: -72.89099}
-        - {x: 96.689514, y: -72.89099}
-        - {x: 122.689514, y: -56.89099}
-        - {x: 141.68951, y: -19.890991}
-        - {x: 141.68951, y: 27.109009}
-    - name: tuna_sprite_2
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_2
       rect:
         serializedVersion: 2
         x: 813
-        y: 2403
+        y: 2402
         width: 371
-        height: 171
+        height: 172
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 3.6182861, y: -67.600586}
-        - {x: 27.618286, y: -67.600586}
-        - {x: 57.618286, y: -47.600586}
-        - {x: 123.618286, y: -67.600586}
-        - {x: 135.61829, y: -67.600586}
-        - {x: 136.61829, y: -52.600586}
-        - {x: 112.618286, y: -20.600586}
-        - {x: 106.618286, y: -15.600586}
-        - {x: 138.61829, y: -15.600586}
-        - {x: 147.61829, y: -8.600586}
-        - {x: 147.61829, y: 3.399414}
-        - {x: 45.618286, y: 49.399414}
-        - {x: -35.381714, y: 68.399414}
-        - {x: -146.38171, y: 68.399414}
-        - {x: -146.38171, y: -67.600586}
-        - {x: -7.381714, y: -67.600586}
-        - {x: -5.381714, y: -61.600586}
-        - {x: -6.381714, y: -54.600586}
-        - {x: -1.3817139, y: -63.600586}
-    - name: tuna_sprite_3
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_3
       rect:
         serializedVersion: 2
         x: 1217
@@ -178,32 +163,27 @@ TextureImporter:
         width: 362
         height: 143
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -91.048645, y: 57.351562}
-        - {x: -143.04865, y: 57.351562}
-        - {x: -143.04865, y: -56.648438}
-        - {x: 144.95135, y: -56.648438}
-        - {x: 144.95135, y: 5.3515625}
-        - {x: 72.951355, y: 42.351562}
-    - name: tuna_sprite_4
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_4
       rect:
         serializedVersion: 2
         x: 30
         y: 2210
-        width: 368
+        width: 369
         height: 179
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -145.28714, y: 72.3468}
-        - {x: -145.28714, y: -70.6532}
-        - {x: 146.71286, y: -70.6532}
-        - {x: 146.71286, y: 15.346802}
-        - {x: 76.71286, y: 72.3468}
-    - name: tuna_sprite_5
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_5
       rect:
         serializedVersion: 2
         x: 432
@@ -211,73 +191,41 @@ TextureImporter:
         width: 340
         height: 183
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 19.465057, y: -60.3479}
-        - {x: 23.465057, y: -40.3479}
-        - {x: 22.465057, y: -64.3479}
-        - {x: 36.465057, y: -69.3479}
-        - {x: 88.46506, y: -43.3479}
-        - {x: 135.46506, y: -4.3479004}
-        - {x: 135.46506, y: 22.6521}
-        - {x: 12.465057, y: 62.6521}
-        - {x: -84.53494, y: 72.6521}
-        - {x: -133.53494, y: 72.6521}
-        - {x: -134.53494, y: 70.6521}
-        - {x: -134.53494, y: -9.3479}
-        - {x: -107.53494, y: -69.3479}
-        - {x: -91.53494, y: -72.3479}
-        - {x: -65.53494, y: -72.3479}
-        - {x: -58.534943, y: -62.3479}
-        - {x: -44.534943, y: -70.3479}
-        - {x: 13.465057, y: -68.3479}
-    - name: tuna_sprite_6
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_6
       rect:
         serializedVersion: 2
         x: 811
         y: 2206
         width: 361
-        height: 165
+        height: 167
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -125.962585, y: 66.68506}
-        - {x: -136.96259, y: 59.68506}
-        - {x: -142.96259, y: -3.3149414}
-        - {x: -142.96259, y: -56.31494}
-        - {x: -133.96259, y: -60.31494}
-        - {x: -1.9625854, y: -56.31494}
-        - {x: 2.0374146, y: -53.31494}
-        - {x: -0.96258545, y: -41.31494}
-        - {x: 16.037415, y: -34.31494}
-        - {x: -4.9625854, y: -65.31494}
-        - {x: 119.037415, y: -65.31494}
-        - {x: 143.03741, y: -40.31494}
-        - {x: 143.03741, y: -3.3149414}
-        - {x: 36.037415, y: 66.68506}
-    - name: tuna_sprite_7
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_7
       rect:
         serializedVersion: 2
-        x: 1217
+        x: 1216
         y: 2207
-        width: 362
-        height: 140
+        width: 363
+        height: 141
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 144.95135, y: -14.524536}
-        - {x: 144.95135, y: 29.475464}
-        - {x: 18.951355, y: 56.475464}
-        - {x: -143.04865, y: 56.475464}
-        - {x: -143.04865, y: -55.524536}
-        - {x: 144.95135, y: -55.524536}
-        - {x: 140.95135, y: -31.524536}
-        - {x: 131.95135, y: -23.524536}
-        - {x: 141.95135, y: -16.524536}
-    - name: tuna_sprite_8
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_8
       rect:
         serializedVersion: 2
         x: 36
@@ -285,112 +233,83 @@ TextureImporter:
         width: 349
         height: 176
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 138.95541, y: -50.529297}
-        - {x: 138.95541, y: 30.470703}
-        - {x: -21.044586, y: 71.4707}
-        - {x: -138.04459, y: 71.4707}
-        - {x: -138.04459, y: -69.5293}
-        - {x: -13.044586, y: -69.5293}
-        - {x: -15.044586, y: -51.529297}
-        - {x: 1.9554138, y: -69.5293}
-        - {x: 128.95541, y: -69.5293}
-    - name: tuna_sprite_9
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_9
       rect:
         serializedVersion: 2
         x: 438
-        y: 2003
-        width: 342
-        height: 177
+        y: 2002
+        width: 343
+        height: 178
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -47.29236, y: 70.72803}
-        - {x: -135.29236, y: 70.72803}
-        - {x: -135.29236, y: -6.2719727}
-        - {x: -130.29236, y: -70.27197}
-        - {x: 78.70764, y: -70.27197}
-        - {x: 135.70764, y: -27.271973}
-        - {x: 135.70764, y: 9.728027}
-        - {x: 36.70764, y: 64.72803}
-    - name: tuna_sprite_10
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_10
       rect:
         serializedVersion: 2
-        x: 820
+        x: 819
         y: 2015
         width: 359
-        height: 165
+        height: 166
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 47.151306, y: 66.71326}
-        - {x: -141.8487, y: 66.71326}
-        - {x: -141.8487, y: -65.28674}
-        - {x: 83.151306, y: -65.28674}
-        - {x: 142.1513, y: -32.286743}
-        - {x: 142.1513, y: -6.286743}
-        - {x: 83.151306, y: 47.713257}
-    - name: tuna_sprite_11
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_11
       rect:
         serializedVersion: 2
         x: 1219
-        y: 2007
+        y: 2006
         width: 368
-        height: 135
+        height: 136
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 72.53223, y: 54.38977}
-        - {x: -144.46777, y: 54.38977}
-        - {x: -145.46777, y: 49.38977}
-        - {x: -145.46777, y: -53.61023}
-        - {x: 146.53223, y: -53.61023}
-        - {x: 146.53223, y: 9.3897705}
-        - {x: 100.53223, y: 51.38977}
-    - name: tuna_sprite_12
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_12
       rect:
         serializedVersion: 2
-        x: 35
-        y: 1798
+        x: 26
+        y: 1807
         width: 340
         height: 175
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -80.33501, y: 69.69031}
-        - {x: -128.335, y: 69.69031}
-        - {x: -134.335, y: 67.69031}
-        - {x: -134.335, y: 1.6903076}
-        - {x: -109.33501, y: -63.309692}
-        - {x: 82.66499, y: -63.309692}
-        - {x: 121.66499, y: -40.309692}
-        - {x: 129.665, y: -25.309692}
-        - {x: 129.665, y: 43.690308}
-    - name: tuna_sprite_13
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_13
       rect:
         serializedVersion: 2
         x: 432
-        y: 1802
+        y: 1801
         width: 336
-        height: 184
+        height: 185
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -23.034943, y: 73.35193}
-        - {x: -133.03494, y: 73.35193}
-        - {x: -133.03494, y: 12.351929}
-        - {x: -102.03494, y: -72.64807}
-        - {x: 87.96506, y: -72.64807}
-        - {x: 133.96506, y: -32.64807}
-        - {x: 133.96506, y: -4.6480713}
-    - name: tuna_sprite_14
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_14
       rect:
         serializedVersion: 2
         x: 823
@@ -398,24 +317,13 @@ TextureImporter:
         width: 340
         height: 161
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 135.52258, y: -3.6149902}
-        - {x: 111.52258, y: 57.38501}
-        - {x: 50.522583, y: 65.38501}
-        - {x: -134.47742, y: 65.38501}
-        - {x: -134.47742, y: 8.38501}
-        - {x: -111.47742, y: -3.6149902}
-        - {x: -110.47742, y: -61.61499}
-        - {x: -109.47742, y: -63.61499}
-        - {x: -91.47742, y: -63.61499}
-        - {x: -85.47742, y: -62.61499}
-        - {x: -74.47742, y: -63.61499}
-        - {x: 89.52258, y: -63.61499}
-        - {x: 94.52258, y: -51.61499}
-        - {x: 135.52258, y: -42.61499}
-    - name: tuna_sprite_15
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_15
       rect:
         serializedVersion: 2
         x: 1212
@@ -423,187 +331,111 @@ TextureImporter:
         width: 363
         height: 136
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -143.0008, y: 55.175415}
-        - {x: -143.0008, y: -53.824585}
-        - {x: 68.99921, y: -53.824585}
-        - {x: 144.9992, y: -37.824585}
-        - {x: 144.9992, y: 33.175415}
-        - {x: 83.99921, y: 55.175415}
-    - name: tuna_sprite_16
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_16
       rect:
         serializedVersion: 2
-        x: 22
+        x: 21
         y: 1611
-        width: 344
+        width: 345
         height: 168
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 55.88942, y: -57.619873}
-        - {x: 62.88942, y: -66.61987}
-        - {x: 88.88942, y: -66.61987}
-        - {x: 88.88942, y: -37.619873}
-        - {x: 135.88942, y: -22.619873}
-        - {x: 136.88942, y: -21.619873}
-        - {x: 136.88942, y: 20.380127}
-        - {x: -46.11058, y: 67.38013}
-        - {x: -134.11058, y: 67.38013}
-        - {x: -136.11058, y: 60.380127}
-        - {x: -136.11058, y: -2.619873}
-        - {x: -92.11058, y: -56.619873}
-        - {x: -80.11058, y: -56.619873}
-        - {x: -77.11058, y: -64.61987}
-        - {x: -72.11058, y: -66.61987}
-        - {x: -53.11058, y: -66.61987}
-        - {x: -42.11058, y: -48.619873}
-        - {x: 38.88942, y: -63.619873}
-        - {x: 50.88942, y: -62.619873}
-    - name: tuna_sprite_17
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_17
       rect:
         serializedVersion: 2
-        x: 438
+        x: 437
         y: 1593
-        width: 324
+        width: 325
         height: 202
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -102.29236, y: -79.847534}
-        - {x: -103.29236, y: -76.847534}
-        - {x: -108.29236, y: -76.847534}
-        - {x: -109.29236, y: -79.847534}
-      - - {x: -64.29236, y: -45.847534}
-        - {x: -67.29236, y: -59.847534}
-        - {x: -66.29236, y: -70.847534}
-        - {x: -31.292358, y: -74.847534}
-        - {x: 64.70764, y: -62.847534}
-        - {x: 128.70764, y: -37.847534}
-        - {x: 128.70764, y: -15.847534}
-        - {x: 127.70764, y: -14.847534}
-        - {x: 9.707642, y: 57.152466}
-        - {x: -64.29236, y: 80.152466}
-        - {x: -128.29236, y: 80.152466}
-        - {x: -128.29236, y: -24.847534}
-        - {x: -91.29236, y: -79.847534}
-        - {x: -70.29236, y: -79.847534}
-        - {x: -66.29236, y: -74.847534}
-        - {x: -68.29236, y: -55.847534}
-        - {x: -67.29236, y: -55.847534}
-    - name: tuna_sprite_18
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_18
       rect:
         serializedVersion: 2
         x: 819
         y: 1609
         width: 335
-        height: 163
+        height: 164
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 88.36084, y: 48.799316}
-        - {x: -61.63916, y: 65.79932}
-        - {x: -123.63916, y: 65.79932}
-        - {x: -132.63916, y: 61.799316}
-        - {x: -132.63916, y: 19.799316}
-        - {x: -125.63916, y: -0.2006836}
-        - {x: -104.63916, y: -44.200684}
-        - {x: -93.63916, y: -64.20068}
-        - {x: 133.36084, y: -64.20068}
-        - {x: 133.36084, y: 29.799316}
-        - {x: 120.36084, y: 37.799316}
-    - name: tuna_sprite_19
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_19
       rect:
         serializedVersion: 2
-        x: 1217
-        y: 1611
-        width: 358
-        height: 139
+        x: 1216
+        y: 1610
+        width: 359
+        height: 140
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 92.951355, y: 55.880127}
-        - {x: -138.04865, y: 55.880127}
-        - {x: -141.04865, y: 44.880127}
-        - {x: -141.04865, y: -42.119873}
-        - {x: -132.04865, y: -55.119873}
-        - {x: 38.951355, y: -55.119873}
-        - {x: 142.95135, y: -18.119873}
-        - {x: 142.95135, y: 7.880127}
-    - name: tuna_sprite_20
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_20
       rect:
         serializedVersion: 2
-        x: 14
+        x: 13
         y: 1410
-        width: 353
+        width: 354
         height: 161
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 140.066, y: -39.49597}
-        - {x: 140.066, y: 21.504028}
-        - {x: -42.934006, y: 64.50403}
-        - {x: -133.934, y: 64.50403}
-        - {x: -139.934, y: 52.50403}
-        - {x: -139.934, y: 30.504028}
-        - {x: -134.934, y: 11.504028}
-        - {x: -139.934, y: -9.495972}
-        - {x: -139.934, y: -50.49597}
-        - {x: -70.934006, y: -63.49597}
-        - {x: -35.934006, y: -63.49597}
-        - {x: -27.934006, y: -57.49597}
-        - {x: 4.0659943, y: -63.49597}
-        - {x: 130.066, y: -63.49597}
-    - name: tuna_sprite_21
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_21
       rect:
         serializedVersion: 2
         x: 447
         y: 1395
         width: 266
-        height: 200
+        height: 201
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -105.1785, y: 80.14758}
-        - {x: -105.1785, y: 6.147583}
-        - {x: -78.1785, y: -68.85242}
-        - {x: -73.1785, y: -72.85242}
-        - {x: -65.1785, y: -78.85242}
-        - {x: 5.8215027, y: -78.85242}
-        - {x: 105.8215, y: -62.852417}
-        - {x: 105.8215, y: 19.147583}
-        - {x: -34.178497, y: 80.14758}
-      - - {x: -63.178497, y: 80.14758}
-        - {x: -62.178497, y: 77.14758}
-        - {x: -56.178497, y: 77.14758}
-        - {x: -54.178497, y: 79.14758}
-        - {x: -54.178497, y: 80.14758}
-    - name: tuna_sprite_22
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_22
       rect:
         serializedVersion: 2
         x: 823
-        y: 1407
+        y: 1406
         width: 355
-        height: 164
+        height: 165
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 124.52258, y: 65.13281}
-        - {x: -140.47742, y: 65.13281}
-        - {x: -140.47742, y: -50.867188}
-        - {x: -41.477417, y: -64.86719}
-        - {x: 141.52258, y: -64.86719}
-        - {x: 141.52258, y: 44.132812}
-        - {x: 137.52258, y: 58.132812}
-    - name: tuna_sprite_23
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_23
       rect:
         serializedVersion: 2
         x: 1215
@@ -611,85 +443,55 @@ TextureImporter:
         width: 351
         height: 143
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -138.62952, y: 57.294434}
-        - {x: -138.62952, y: -31.705566}
-        - {x: -113.62952, y: -56.705566}
-        - {x: 74.37048, y: -56.705566}
-        - {x: 139.37048, y: -33.705566}
-        - {x: 139.37048, y: 9.294434}
-        - {x: 112.37048, y: 57.294434}
-    - name: tuna_sprite_24
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_24
       rect:
         serializedVersion: 2
-        x: 4
+        x: 3
         y: 1210
-        width: 362
+        width: 363
         height: 155
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 143.66171, y: 18.918335}
-        - {x: 73.66171, y: 42.918335}
-        - {x: -96.33829, y: 61.918335}
-        - {x: -129.33829, y: 61.918335}
-        - {x: -143.33829, y: 50.918335}
-        - {x: -143.33829, y: 44.918335}
-        - {x: -136.33829, y: 10.918335}
-        - {x: -116.33829, y: 0.91833496}
-        - {x: -104.33829, y: 2.918335}
-        - {x: -143.33829, y: -14.081665}
-        - {x: -143.33829, y: -61.081665}
-        - {x: -1.3382874, y: -61.081665}
-        - {x: -1.3382874, y: -59.081665}
-        - {x: -4.3382874, y: -37.081665}
-        - {x: 12.661713, y: -61.081665}
-        - {x: 143.66171, y: -61.081665}
-    - name: tuna_sprite_25
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_25
       rect:
         serializedVersion: 2
         x: 813
         y: 1209
         width: 356
-        height: 185
+        height: 186
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -53.881714, y: 74.12793}
-        - {x: -140.88171, y: 61.12793}
-        - {x: -140.88171, y: 11.12793}
-        - {x: -135.88171, y: 0.12792969}
-        - {x: -118.881714, y: -8.87207}
-        - {x: -105.881714, y: -6.8720703}
-        - {x: -140.88171, y: -36.87207}
-        - {x: -140.88171, y: -69.87207}
-        - {x: -104.881714, y: -72.87207}
-        - {x: 142.11829, y: -72.87207}
-        - {x: 142.11829, y: 74.12793}
-    - name: tuna_sprite_26
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_26
       rect:
         serializedVersion: 2
-        x: 1216
+        x: 1215
         y: 1214
-        width: 323
+        width: 325
         height: 140
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -65.83905, y: 56.58008}
-        - {x: -127.83905, y: 47.58008}
-        - {x: -127.83905, y: -48.41992}
-        - {x: -100.83905, y: -55.41992}
-        - {x: 67.16095, y: -55.41992}
-        - {x: 128.16095, y: -15.419922}
-        - {x: 128.16095, y: 15.580078}
-        - {x: 50.16095, y: 56.58008}
-    - name: tuna_sprite_27
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_27
       rect:
         serializedVersion: 2
         x: 21
@@ -697,89 +499,55 @@ TextureImporter:
         width: 357
         height: 163
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 127.099, y: -64.29602}
-        - {x: 142.099, y: -63.29602}
-        - {x: 142.099, y: 29.70398}
-        - {x: 2.098999, y: 65.70398}
-        - {x: -140.901, y: 65.70398}
-        - {x: -140.901, y: -64.29602}
-        - {x: 3.098999, y: -64.29602}
-        - {x: 4.098999, y: -61.29602}
-        - {x: -2.901001, y: -37.29602}
-        - {x: 11.098999, y: -64.29602}
-    - name: tuna_sprite_28
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_28
       rect:
         serializedVersion: 2
-        x: 815
+        x: 814
         y: 1009
-        width: 375
+        width: 376
         height: 176
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -148.30084, y: -67.45776}
-        - {x: -147.30084, y: -69.45776}
-        - {x: 114.69916, y: -69.45776}
-        - {x: 148.69916, y: -63.457764}
-        - {x: 148.69916, y: 70.54224}
-        - {x: -80.30084, y: 70.54224}
-        - {x: -122.30084, y: 62.542236}
-        - {x: -148.30084, y: 51.542236}
-    - name: tuna_sprite_29
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_29
       rect:
         serializedVersion: 2
-        x: 1216
-        y: 1010
-        width: 318
-        height: 136
+        x: 1215
+        y: 1009
+        width: 320
+        height: 137
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 91.16095, y: 54.332703}
-        - {x: -21.83905, y: 54.332703}
-        - {x: -26.83905, y: 53.332703}
-        - {x: -117.83905, y: 47.332703}
-        - {x: -125.83905, y: 40.332703}
-        - {x: -125.83905, y: -19.667297}
-        - {x: -88.83905, y: -53.667297}
-        - {x: 25.16095, y: -53.667297}
-        - {x: 126.16095, y: 5.3327026}
-        - {x: 126.16095, y: 24.332703}
-        - {x: 100.16095, y: 53.332703}
-    - name: tuna_sprite_30
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_30
       rect:
         serializedVersion: 2
         x: 16
-        y: 812
+        y: 813
         width: 360
-        height: 166
+        height: 165
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 120.64685, y: 23.32788}
-        - {x: 82.64685, y: 43.32788}
-        - {x: -12.353149, y: 67.32788}
-        - {x: -142.35315, y: 67.32788}
-        - {x: -142.35315, y: -65.67212}
-        - {x: -98.35315, y: -65.67212}
-        - {x: -95.35315, y: -62.67212}
-        - {x: -88.35315, y: -53.67212}
-        - {x: -80.35315, y: -41.67212}
-        - {x: -32.35315, y: -59.67212}
-        - {x: -18.35315, y: -61.67212}
-        - {x: -5.3531494, y: -44.67212}
-        - {x: 25.64685, y: -65.67212}
-        - {x: 116.64685, y: -65.67212}
-        - {x: 143.64685, y: -13.672119}
-        - {x: 143.64685, y: 10.327881}
-        - {x: 136.64685, y: 14.327881}
-    - name: tuna_sprite_31
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_31
       rect:
         serializedVersion: 2
         x: 824
@@ -787,16 +555,13 @@ TextureImporter:
         width: 364
         height: 146
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -144.18701, y: 59.32788}
-        - {x: -144.18701, y: -57.67212}
-        - {x: 134.81299, y: -57.67212}
-        - {x: 144.81299, y: 18.32788}
-        - {x: 144.81299, y: 46.32788}
-        - {x: 134.81299, y: 59.32788}
-    - name: tuna_sprite_32
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_32
       rect:
         serializedVersion: 2
         x: 1214
@@ -804,230 +569,153 @@ TextureImporter:
         width: 326
         height: 135
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -128.91992, y: -32.381714}
-        - {x: -113.91992, y: -53.381714}
-        - {x: 89.08008, y: -53.381714}
-        - {x: 130.08008, y: -27.381714}
-        - {x: 130.08008, y: 54.618286}
-        - {x: -95.91992, y: 54.618286}
-        - {x: -122.91992, y: 51.618286}
-        - {x: -128.91992, y: 45.618286}
-    - name: tuna_sprite_33
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_33
       rect:
         serializedVersion: 2
         x: 15
         y: 613
         width: 362
-        height: 169
+        height: 171
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 144.35643, y: 21.032623}
-        - {x: 113.35643, y: 43.032623}
-        - {x: -77.64357, y: 68.03262}
-        - {x: -142.64357, y: 68.03262}
-        - {x: -142.64357, y: -10.967377}
-        - {x: -113.64357, y: -66.96738}
-        - {x: 76.35643, y: -66.96738}
-        - {x: 86.35643, y: -61.967377}
-        - {x: 83.35643, y: -25.967377}
-        - {x: 144.35643, y: 5.0326233}
-    - name: tuna_sprite_34
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_34
       rect:
         serializedVersion: 2
         x: 824
-        y: 614
+        y: 613
         width: 347
-        height: 148
+        height: 149
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 88.81299, y: 51.32303}
-        - {x: 13.812988, y: 59.32303}
-        - {x: -136.18701, y: 59.32303}
-        - {x: -137.18701, y: 58.32303}
-        - {x: -137.18701, y: -16.676971}
-        - {x: -103.18701, y: -58.67697}
-        - {x: 34.81299, y: -58.67697}
-        - {x: 50.81299, y: -54.67697}
-        - {x: 134.81299, y: -18.676971}
-        - {x: 137.81299, y: -17.676971}
-        - {x: 137.81299, y: 7.3230286}
-    - name: tuna_sprite_35
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_35
       rect:
         serializedVersion: 2
         x: 1214
-        y: 614
+        y: 613
         width: 331
-        height: 141
+        height: 143
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -4.919922, y: 56.32303}
-        - {x: -126.91992, y: 50.32303}
-        - {x: -130.91992, y: 30.323029}
-        - {x: -130.91992, y: -44.67697}
-        - {x: -72.91992, y: -55.67697}
-        - {x: 84.08008, y: -55.67697}
-        - {x: 132.08008, y: 32.32303}
-        - {x: 132.08008, y: 52.32303}
-        - {x: 127.08008, y: 56.32303}
-    - name: tuna_sprite_36
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_36
       rect:
         serializedVersion: 2
         x: 24
         y: 414
-        width: 354
+        width: 355
         height: 173
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -139.52972, y: 68.737366}
-        - {x: -139.52972, y: -0.26263428}
-        - {x: -95.529724, y: -68.262634}
-        - {x: 118.470276, y: -68.262634}
-        - {x: 141.47028, y: -12.262634}
-        - {x: 141.47028, y: 37.737366}
-        - {x: 115.470276, y: 68.737366}
-    - name: tuna_sprite_37
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_37
       rect:
         serializedVersion: 2
         x: 822
         y: 418
-        width: 329
+        width: 328
         height: 148
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 122.23212, y: -29.600922}
-        - {x: 131.23212, y: -29.600922}
-        - {x: 131.23212, y: 3.3990784}
-        - {x: 55.232117, y: 59.39908}
-        - {x: -129.76788, y: 59.39908}
-        - {x: -129.76788, y: 0.39907837}
-        - {x: -63.767883, y: -57.60092}
-        - {x: -12.767883, y: -58.60092}
-        - {x: 0.2321167, y: -56.60092}
-        - {x: 1.2321167, y: -40.60092}
-        - {x: 4.2321167, y: -51.60092}
-        - {x: 7.2321167, y: -58.60092}
-        - {x: 59.232117, y: -58.60092}
-        - {x: 78.23212, y: -41.60092}
-        - {x: 77.23212, y: -31.600922}
-        - {x: 74.23212, y: -26.600922}
-    - name: tuna_sprite_38
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_38
       rect:
         serializedVersion: 2
         x: 1214
         y: 414
-        width: 334
+        width: 335
         height: 148
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 44.08008, y: 59.237366}
-        - {x: -117.91992, y: 46.237366}
-        - {x: -131.91992, y: 25.237366}
-        - {x: -131.91992, y: -14.762634}
-        - {x: -94.91992, y: -53.762634}
-        - {x: -39.91992, y: -58.762634}
-        - {x: 90.08008, y: -58.762634}
-        - {x: 94.08008, y: -53.762634}
-        - {x: 133.08008, y: 29.237366}
-        - {x: 133.08008, y: 59.237366}
-    - name: tuna_sprite_39
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_39
       rect:
         serializedVersion: 2
         x: 25
-        y: 218
+        y: 217
         width: 354
-        height: 177
+        height: 178
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 141.26071, y: 29.813385}
-        - {x: 101.26071, y: 70.813385}
-        - {x: -139.73929, y: 70.813385}
-        - {x: -139.73929, y: -70.186615}
-        - {x: 141.26071, y: -70.186615}
-      - - {x: 77.26071, y: -68.186615}
-        - {x: 78.26071, y: -70.186615}
-        - {x: 82.26071, y: -70.186615}
-        - {x: 83.26071, y: -69.186615}
-        - {x: 82.26071, y: -66.186615}
-        - {x: 79.26071, y: -66.186615}
-    - name: tuna_sprite_40
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_40
       rect:
         serializedVersion: 2
         x: 819
-        y: 214
+        y: 213
         width: 352
-        height: 156
+        height: 157
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 37.86084, y: 33.151672}
-        - {x: 5.86084, y: 31.151672}
-        - {x: -97.13916, y: 62.151672}
-        - {x: -130.13916, y: 62.151672}
-        - {x: -139.13916, y: 42.151672}
-        - {x: -139.13916, y: -20.848328}
-        - {x: -32.13916, y: -61.848328}
-        - {x: 139.86084, y: -61.848328}
-        - {x: 139.86084, y: -26.848328}
-        - {x: 119.86084, y: 15.151672}
-    - name: tuna_sprite_41
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_41
       rect:
         serializedVersion: 2
         x: 1214
         y: 213
-        width: 330
+        width: 331
         height: 147
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -129.41992, y: 58.86125}
-        - {x: -130.41992, y: 51.86125}
-        - {x: -130.41992, y: -1.1387482}
-        - {x: -90.41992, y: -32.13875}
-        - {x: 64.58008, y: -58.13875}
-        - {x: 115.58008, y: -58.13875}
-        - {x: 122.58008, y: -55.13875}
-        - {x: 131.58008, y: -9.138748}
-        - {x: 131.58008, y: 58.86125}
-    - name: tuna_sprite_42
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tuna_sprite_42
       rect:
         serializedVersion: 2
         x: 1215
-        y: 13
-        width: 381
-        height: 155
+        y: 12
+        width: 382
+        height: 156
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 11.370483, y: 61.77557}
-        - {x: -140.62952, y: 61.77557}
-        - {x: -150.62952, y: 45.77557}
-        - {x: -150.62952, y: -12.22443}
-        - {x: -134.62952, y: -48.22443}
-        - {x: 52.370483, y: -61.22443}
-        - {x: 151.37048, y: -61.22443}
-        - {x: 151.37048, y: -27.22443}
-        - {x: 79.37048, y: 57.77557}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
+    physicsShape: []
   spritePackingTag: 
   userData: 
   assetBundleName: 
